@@ -12,3 +12,4 @@ without changing the parameters of the model or the characteristics of the data-
 Key words: Singular Value Decomposition, Principal Component Analysis, Machine
 Learning, Random Forest Classifier, Feature Engineering, Remote Sensing
 
+[FeatureEngineering_SVD_PCA_RemoteSengin_ML_De_La_Hoz.pdf](https://github.com/EkMuyal/FeatureEng_RS/files/10048988/FeatureEngineering_SVD_PCA_RemoteSengin_ML_De_La_Hoz.pdf)
